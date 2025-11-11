@@ -120,4 +120,3 @@ This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` fi
 
 Thank you for checking out this repository! I hope you find these machine learning examples helpful. Your feedback and contributions are highly appreciated.
 
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/).
